@@ -1,0 +1,13 @@
+:root {
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  --bg-color: #0d1b2a;
+  --bg-color-variant1: #1b263b ;
+  --bg-color-variant2: #415a77 ;
+  --primaryContent: #e0e1dd;
+  --primaryContent-variant1: #778da9;
+  --primaryContent-variant2: #f3f4f1;
+  --accentContnet: #00a2ff;
+}
