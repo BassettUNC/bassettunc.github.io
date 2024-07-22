@@ -63,9 +63,9 @@ function App() {
           <h2 id = "experienceHeader" className="rightContentHeader">Experience</h2>
           <ExperienceBlock 
             name="Trulab"
-            date="Soon"
+            date="Current"
             body={[
-              "I am excited to begin my career at Trulab in June."
+              "I am excited to have begun my career at Trulab in June 2024 as a product analyst."
             ]}
             languages={[
             ]}
