@@ -65,9 +65,12 @@ function App() {
             name="Trulab"
             date="Current"
             body={[
-              "I am excited to have begun my career at Trulab in June 2024 as a product analyst."
+              "Led end-to-end implementation of product features for enterprise clients.",
+              "Designed and implemented an automated database export system.",
+              "Created and prioritized internal tooling backlog."
             ]}
             languages={[
+              "Ruby on Rails", "JavaScript"
             ]}
           />
           <ExperienceBlock 
@@ -139,7 +142,7 @@ function App() {
               "React", "Firebase"
             ]}
           />
-          <a id ="resumeLink" className="defaultLink" href= "./ElijahBassettResume.pdf">Full Resume</a>
+          <a id ="resumeLink" className="defaultLink" href= "./ElijahBassettResumeWebsite.pdf">Full Resume</a>
         </div>
         {/* <div id ="bottomLinks">
           <h2 id = "linksHeader" className="rightContentHeader">Links</h2>
