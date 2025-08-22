@@ -45,15 +45,9 @@ function App() {
       <div id = "rightContent">
         <div id = "summaryContent">
           <h2 id = "summaryHeader" className="rightContentHeader">About Me</h2>
-          <p>I'm always looking to build something that matters. I seek purpose
-            in what I do, and look to create with intention. 
-
-            <br /><br /> I began programming in middle school and have since graduated with
+          <p>I began programming in middle school and have since graduated with
             distiniction from UNC Chapel Hill with a degree in computer science
             and a minor in data science.
-
-            <br /><br /> I have taken a special intrest in hardware desgin and entreprenuership
-            and look to combine principles from both in my daily life.
 
             <br /><br /> In my free time, you'll find me at the gym, on the lake, or playing NYT Games!
           
