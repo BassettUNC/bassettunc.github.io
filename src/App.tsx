@@ -19,7 +19,7 @@ function App() {
         <div>
           <div id = "headerComponents"> 
             <h1 className="headerText">Elijah Bassett</h1>
-            <h4 className="headerText">I create things.</h4>
+            {/* <h4 className="headerText">I create things.</h4> */}
           </div>
           <div id = "socialLinks">
 
@@ -119,7 +119,6 @@ function App() {
             name="Stock Market Analysis Platform"
             body= "Working with Dr. Chakrabory at UNC, I created a deep anaylsis and predicitive algorithm suite for historical stock market data."
             links = {[
-              {demoTextLink: 'https://www.canva.com/design/DAFgYWcKomw/uTHD3JMJP0I9wVSupq3LJQ/view?utm_content=DAFgYWcKomw&utm_campaign=designshare&utm_medium=link&utm_source=editor', demoText: 'More Information'},
             ]}
             languages={[
               "Java", "Python"
